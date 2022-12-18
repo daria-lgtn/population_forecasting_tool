@@ -1,0 +1,24 @@
+Life expectancy
+https://data.worldbank.org/indicator/SP.DYN.LE00.IN?locations=RU
+
+Population total
+https://data.worldbank.org/indicator/SP.POP.TOTL?locations=RU
+https://data.worldbank.org/indicator/SP.POP.TOTL.FE.IN?locations=RU
+https://data.worldbank.org/indicator/SP.POP.TOTL.MA.IN?locations=RU
+
+Fertility
+https://data.worldbank.org/indicator/SP.DYN.TFRT.IN?locations=RU
+
+Death'lity
+https://www.statista.com/statistics/1005564/death-rate-russia-age-and-gender/
+
+Female percent
+https://data.worldbank.org/indicator/SP.POP.TOTL.FE.ZS?locations=RU
+death probability distribution histogram
+
+Age distribution
+https://www.statista.com/statistics/1005416/population-russia-gender-age-group/
+https://www.worldometers.info/demographics/russia-demographics/
+
+Women birth age distribution
+https://www.researchgate.net/figure/Age-specific-first-birth-rates-number-of-births-per-1000-of-women-in-given-age-group_fig2_4748210

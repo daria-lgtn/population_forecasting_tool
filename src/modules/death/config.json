@@ -1,0 +1,8 @@
+{
+    "death_rate_female": 0.46,
+    "death_rate_male": 0.54,
+    "death_peaks": [
+        {"mean": 0, "diff": 2, "weight": 1},
+        {"mean": 82, "diff": 10, "weight": 100}
+    ]
+}

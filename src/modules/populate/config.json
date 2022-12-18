@@ -1,0 +1,24 @@
+{
+    "age_peaks": [
+        {"mean": 0, "diff": 2.5, "weight": 8.58, "weight_m": 4.16, "weight_f": 3.92 },
+        {"mean": 5, "diff": 2.5, "weight": 9.31, "weight_m": 4.91, "weight_f": 4.64 },
+        {"mean": 10, "diff": 2.5, "weight": 8.05, "weight_m": 4.23, "weight_f": 4.03 },
+        {"mean": 15, "diff": 2.5, "weight": 8.16, "weight_m": 3.71, "weight_f": 3.56 },
+        {"mean": 20, "diff": 2.5, "weight": 6.89, "weight_m": 3.45, "weight_f": 3.33 },
+        {"mean": 25, "diff": 2.5, "weight": 9.43, "weight_m": 4.4, "weight_f": 4.18 },
+        {"mean": 30, "diff": 2.5, "weight": 12.64, "weight_m": 6.27, "weight_f": 6.15 },
+        {"mean": 35, "diff": 2.5, "weight": 12, "weight_m": 6.02, "weight_f": 6.11 },
+        {"mean": 40, "diff": 2.5, "weight": 10.71, "weight_m": 5.3, "weight_f": 5.62 },
+        {"mean": 45, "diff": 2.5, "weight": 9.9, "weight_m": 4.75, "weight_f": 5.23 },
+        {"mean": 50, "diff": 2.5, "weight": 8.85, "weight_m": 4.16, "weight_f": 4.73 },
+        {"mean": 55, "diff": 2.5, "weight": 10.44, "weight_m": 4.41, "weight_f": 5.44 },
+        {"mean": 60, "diff": 2.5, "weight": 10.1, "weight_m": 4.35, "weight_f": 5.95 },
+        {"mean": 65, "diff": 2.5, "weight": 8.34, "weight_m": 3.25, "weight_f": 5.22 },
+        {"mean": 70, "diff": 2.5, "weight": 5.56, "weight_m": 2.2, "weight_f": 4.03 },
+        {"mean": 75, "diff": 2.5, "weight": 3.13, "weight_m": 0.82, "weight_f": 1.88 },
+        {"mean": 80, "diff": 2.5, "weight": 3.56, "weight_m": 0.95, "weight_f": 2.67 },
+        {"mean": 85, "diff": 2.5, "weight": 1.38, "weight_m": 0.3, "weight_f": 1.03 },
+        {"mean": 90, "diff": 2.5, "weight": 0.6, "weight_m": 0.14, "weight_f": 0.48 },
+        {"mean": 95, "diff": 2.5, "weight": 0.12, "weight_m": 0.03, "weight_f": 0.1 }
+    ]
+}
